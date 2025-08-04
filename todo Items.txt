@@ -1,0 +1,11 @@
+complete github
+See the assertion, when to use hasTextContent, toBe(), toBeTruthy() like that. Practice it
+Go through promises.practice them
+Go through arrow functions and functions. Practice them
+Understand your project flow
+Practice api response validations and work on post and put,patch in playwright
+Practice javascript coding as much as possible
+
+
+Be confident. don't be in hurry, stop miming, always remeber: don't always your code will be as per the interviewer. write your own code
+
